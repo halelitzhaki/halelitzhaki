@@ -6,7 +6,7 @@ About me
 --
 I'm a passionate developer and a current B.Sc. student at **Ariel University**, exploring the world of **Cybersecurity** and **Operating Systems Development**. 🎓
 
-I am a proud graduate of **Magshimim**, the Israeli national cyber program, where I honed my skills and deepened my knowledge in the field of cybersecurity. <img width="40" alt="Picture1" src="https://github.com/user-attachments/assets/a20e00b2-8713-4fc6-834b-61c100e2d3d9" style="vertical-align:text-bottom;">
+I am a proud graduate of **Magshimim**, the Israeli national cyber program for high-school students, where I honed my skills and deepened my knowledge in the field of cybersecurity. <img width="40" alt="Picture1" src="https://github.com/user-attachments/assets/a20e00b2-8713-4fc6-834b-61c100e2d3d9" style="vertical-align:text-bottom;">
 
 
 
