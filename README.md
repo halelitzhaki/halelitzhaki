@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**halelitzhaki/halelitzhaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Halel Itzhaki.
 
-Here are some ideas to get you started:
+About me 
+--
+I'm a passionate developer and a current B.Sc. student at **Ariel University**, exploring the fascinating realms of **Cybersecurity** and **Operating Systems Development**. 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a proud graduate of **Magshimim**, the Israeli national cyber program, where I honed my skills and deepened my knowledge in the field of cybersecurity. 🔐
+
+## 💻 Tech Stack
+I have expertise in:
+- **Languages:** C, C++, C#, Python, and Java.
+- Developing efficient and high-performance software solutions.
+
+## 🌟 Interests
+- **Cybersecurity:** Exploring vulnerabilities, enhancing defenses, and staying ahead of the curve in the world of cyber threats.
+- **Operating Systems Development:** Building and optimizing systems from the ground up, like - USB Gadget in RPi and more.
+
+I'm always eager to learn, contribute to open-source projects, and collaborate on exciting, impactful ideas. Feel free to reach out—let's create something amazing together!
+
+
