@@ -32,10 +32,5 @@ My projects are licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halelitzhaki&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halelitzhaki&theme=radical" width="400">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halelitzhaki&layout=compact&langs_count=6"https://github.com/anuraghazra/github-readme-stats>
 </p>
