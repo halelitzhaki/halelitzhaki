@@ -1,4 +1,5 @@
-# Hello! 👋 I'm Halel Itzhaki
+<h1 align="center">Hello there! 👋 My name is Halel Itzhaki</h1>
+
 
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat) Reach me on - Halel840@gmail.com
 
@@ -24,13 +25,6 @@ I am a proud graduate of **Magshimim**, the Israeli national cyber program for h
   
   <img src="https://streak-stats.demolab.com?user=halelitzhaki&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </p>
-
-
-## 🌟 Interests
-- **Cybersecurity:** Exploring vulnerabilities, enhancing defenses, and staying ahead of the curve in the world of cyber threats.
-- **Operating Systems Development:** Building and optimizing systems from the ground up, like - USB Gadget in RPi and more.
-
-I'm always eager to learn, contribute to open-source projects, and collaborate on exciting, impactful ideas. Feel free to reach out—let's create something amazing together!
 
 ## License
 My projects are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
