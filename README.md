@@ -4,7 +4,7 @@
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat) Reach me on - Halel840@gmail.com
 
 ## About me 
-I'm a passionate developer and a current B.Sc. student at **Ariel University**, focusing & exploring the world of **Cybersecurity** and **Operating Systems Development**. 🎓
+I'm a passionate developer and a current B.Sc. student at **Ariel University**, focusing and exploring the world of **Cybersecurity** and **Operating Systems Development**. 🎓
 
 I am a proud graduate of **Magshimim**, the Israeli national cyber program for high-school students, where I honed my skills and deepened my knowledge in the field of cybersecurity. <span style="line-height: 1; vertical-align: middle;"><img width="30" src="https://github.com/user-attachments/assets/31158d0c-d4cb-42d7-8c6c-ff095663a48b"></span>
 
