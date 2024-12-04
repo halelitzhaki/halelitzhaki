@@ -18,7 +18,7 @@ I graduated **Magshimim**, the Israeli national cyber program for high-school st
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halelitzhaki&layout=compact&langs_count=6&theme=dracula"https://github.com/anuraghazra/github-readme-stats>
